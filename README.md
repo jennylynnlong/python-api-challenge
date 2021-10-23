@@ -1,7 +1,7 @@
 # python-api-challenge
 Jennifer Long's Python-API homework
 
-In this repository you will find my two ipynbs - one for the WeatherPy activity and one for the VacationoPy activity. In the "output_data" folder, you will find my images from the scatter plots in the WeatherPy activity as well as the cities.csv file that was created in that notebook. In the WeatherPy notebook, you will see observations at the bottom. I have also listed those here.
+In this repository you will find my two ipynbs - one for the WeatherPy activity and one for the VacationoPy activity. In the "output_data" folder, you will find my images from the plots in the WeatherPy activity, the cities.csv file that was created in that notebook, and the maps created in the VacationPy activity. In the WeatherPy notebook, you will see observations at the bottom. I have also listed those here.
 
 
 Observations from WeatherPy:
